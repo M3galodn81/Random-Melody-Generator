@@ -1,0 +1,9 @@
+Melody Generator
+    ☐ Add Scale Function 
+    ☐ Add Octave Range
+    ☐ Add Form(ABAB/ABAC)
+    ☐ Add Resolve on Root Note
+
+MIDI File Generator
+    ☐ Header Chunk
+    ☐ Convert Notes into Decimal
