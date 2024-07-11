@@ -62,7 +62,7 @@ for x in duration_array:
 randomize_notes = [[d, n, o] for d, n, o in zip(duration_array,note_array,octave_array)]
 
 print(f" Random Generated {bars} bar Melody: ")
-print(f" Notes \t\t  |  Octave \t\t  |  Duration")
+print(f" Notes \t\t  |  Octave \t  |  Duration")
 for x in randomize_notes:
     print(f" {x[1]}\t\t  |  {x[2]}\t\t  |  {x[0]}")
 

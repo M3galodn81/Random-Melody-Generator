@@ -5,5 +5,5 @@ Melody Generator
     ☐ Add Resolve on Root Note
 
 MIDI File Generator
-    ☐ Header Chunk
-    ☐ Convert Notes into Decimal
+    ✔ Header Chunk @done(24-07-12 03:52)
+    ✔ Convert Notes into Hexa @done(24-07-12 03:37)
